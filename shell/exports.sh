@@ -5,8 +5,8 @@ export CODELY_THEME_MINIMAL=false
 export CODELY_THEME_MODE="dark"
 export CODELY_THEME_PROMPT_IN_NEW_LINE=false
 export CODELY_THEME_PWD_MODE="short" # full, short, home_relative
-export CODELY_THEME_STATUS_ICON_OK="🧪"
-export CODELY_THEME_STATUS_ICON_KO="🔥"
+export CODELY_THEME_STATUS_ICON_OK=""
+export CODELY_THEME_STATUS_ICON_KO=""
 
 # ------------------------------------------------------------------------------
 # Languages
@@ -14,6 +14,7 @@ export CODELY_THEME_STATUS_ICON_KO="🔥"
 export JAVA_HOME='/Library/Java/JavaVirtualMachines/amazon-corretto-15.jdk/Contents/Home'
 export GEM_HOME="$HOME/.gem"
 export GOPATH="$HOME/.go"
+export NVM_DIR="$HOME/.nvm"
 
 # ------------------------------------------------------------------------------
 # Apps
